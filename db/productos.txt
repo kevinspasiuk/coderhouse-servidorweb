@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 123.4,
+    "thumbnail": "./escuadra.png",
+    "id": 1
+  },
+  {
+    "title": "Cuaderno",
+    "price": 567.4,
+    "thumbnail": "./cuaderno.png",
+    "id": 2
+  },
+  {
+    "title": "Lapicera",
+    "price": 23.4,
+    "thumbnail": "./lapicera.png",
+    "id": 3
+  }
+]
